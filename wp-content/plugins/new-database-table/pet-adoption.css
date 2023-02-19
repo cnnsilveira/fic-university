@@ -1,0 +1,144 @@
+.pet-adoption-table {
+  margin-top: 20px;
+  width: 100%;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+.pet-adoption-table th {
+  font-weight: bold;
+  color: #fff;
+  background-color: #4d4d4d;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+  text-align: left;
+  padding: 12px 15px;
+  font-size: 12px;
+}
+
+.pet-adoption-table td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  font-size: 12px;
+}
+
+.pet-adoption-table tr:nth-child(odd) td {
+  background-color: #f1f1f1;
+}
+
+.delete-pet-button {
+  border: none;
+  background-color: #e2e2e2;
+  color: red;
+  transform: scaleX(1.2);
+  font-weight: bold;
+  padding: 3px 5px;
+  cursor: pointer;
+  opacity: 0.65;
+}
+
+.delete-pet-button:hover {
+  opacity: 1;
+}
+
+.create-pet-form {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: rgb(240, 240, 240);
+  border: 1px solid #ddd;
+}
+
+.create-pet-form p {
+  margin-bottom: 15px !important;
+}
+
+
+/* form styles */
+
+.form-container {
+  margin-bottom: 20px;
+  border-radius: 3px;
+}
+
+.form-container * {
+  /* border: 1px solid red; */
+}
+
+.form-container form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #4d4d4d;
+  padding: 16px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.form-col-wrap {
+  width: 33%;
+}
+
+.form-col-wrap select,
+.form-col-wrap input {
+  width: 100%;
+}
+
+.small-inputs-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+
+.small-inputs-wrap select,
+.small-inputs-wrap input {
+  width: calc(50% - 3px);
+}
+
+
+.form-col-wrap select:not(:first-child),
+.small-inputs-wrap select,
+.form-col-wrap input {
+  margin-top: 6px;
+}
+
+.form-col-wrap:not(:last-child) {
+  margin-right: 6px;
+}
+
+.form-col-wrap input[type="submit"] {
+  height: 70px;
+}
+
+.form-col-wrap select, 
+.form-col-wrap input {
+  font-size: 14px !important;
+  background: #303030;
+  outline: none !important;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-col-wrap input[type="submit"] {
+  background: #326830 !important;
+}
+.form-col-wrap input[type="submit"]:hover {
+  background: #4a6849 !important;
+}
+
+.form-col-wrap input[type="reset"] {
+  background: #6e3535;
+}
+.form-col-wrap input[type="reset"]:hover {
+  background: #664848;
+}
+
+.form-col-wrap select:hover, 
+.form-col-wrap input:hover {
+  background: #555;
+}
+
+select {
+  text-align: center;
+  text-transform: capitalize !important;
+  padding: 5px 0;
+}

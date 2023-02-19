@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-16 18:13+0000\n"
+"PO-Revision-Date: 2023-01-16 18:26+0000\n"
+"Last-Translator: Caio\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wfdomain"
+
+#: index.php:72
+msgid "bad, mean, awful, horrible"
+msgstr "feio, escroto, horrivel"
+
+#. Author of the plugin
+msgid "Caio Nunes"
+msgstr "Caio Nunes"
+
+#: index.php:70
+msgid "comma-separated"
+msgstr "separadas por vírgula"
+
+#: index.php:70
+msgid "Enter a"
+msgstr "Insira uma lista de palavras"
+
+#: index.php:25
+msgid "Filtered Text"
+msgstr "Texto Filtrado"
+
+#: index.php:41
+msgid "Home"
+msgstr "Início"
+
+#. Author URI of the plugin
+msgid "https://github.com/cnnsilveira"
+msgstr "https://github.com/cnnsilveira"
+
+#: index.php:30
+msgid "Leave blank to simply remove filtered words"
+msgstr "Deixe em branco para desabilitar o filtro"
+
+#: index.php:70
+msgid "list of words to filter from your site's content"
+msgstr "para serem filtradas do conteúdo do seu site"
+
+#: index.php:42
+msgid "Options"
+msgstr "Opções"
+
+#. Description of the plugin
+msgid "Replaces filtered words."
+msgstr "Substitui palavras filtradas."
+
+#: index.php:74
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: index.php:58
+msgid "Sorry, you do not have permission to perform that action"
+msgstr "Desculpe, você não tem permissão para fazer isso"
+
+#. Name of the plugin
+#: index.php:40 index.php:65
+msgid "Word Filter"
+msgstr "Word Filter"
+
+#: index.php:42 index.php:81
+msgid "Word Filter Options"
+msgstr "Opções do Word Filter"
+
+#: index.php:40 index.php:41
+msgid "Words to filter"
+msgstr "Palavras a serem filtradas"
+
+#: index.php:54
+msgid "Your filter words were saved"
+msgstr "Suas palavras filtradas foram salvas"

@@ -1,0 +1,36 @@
+.paying-attention-edit-block {
+    padding: 20px;
+    border-radius: 2px;
+    background-color: #303030;
+
+    .mark-as-correct {
+        color: #ffd700;
+        position: relative;
+        top: -3px;
+        transition: transform 0.3s ease-out;
+
+        &:hover {
+            transform: scale(1.5) rotate(70deg);
+        } 
+    }
+
+    .attention-delete {
+        color: #ff0000;
+        position:  relative;
+        top: -5px;
+        transition: 0.2s;
+
+        &:hover {
+            color: #c20000 !important;
+        }
+    }
+
+    label, p {
+        color: white;
+    }
+
+    .answers-label {
+        font-size: 13px;
+        margin: 20px 0 8px 0;
+    }
+}

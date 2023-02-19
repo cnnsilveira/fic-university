@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Count Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 17:35+0000\n"
+"PO-Revision-Date: 2023-01-11 17:41+0000\n"
+"Last-Translator: Caio\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wcpdomain"
+
+#. Description of the plugin
+msgid ""
+"All I do is count the words and show the results to the reader. Includes the "
+"word count itself, the character count and the read time."
+msgstr ""
+"Meu trabalho é contar as palavras e mostrar o resultado ao leitor. O plugin "
+"inclui o contador de palavras, o contador de caracteres e o tempo de leitura."
+
+#: word-count-plugin.php:126
+msgid "Beginning of post"
+msgstr "Início do post"
+
+#. Author of the plugin
+msgid "Caio Nunes"
+msgstr "Caio Nunes"
+
+#: word-count-plugin.php:96
+msgid "Character Count"
+msgstr "Contador de Caracter"
+
+#: word-count-plugin.php:53
+msgid "characters"
+msgstr "caracteres"
+
+#: word-count-plugin.php:84
+msgid "Display Location"
+msgstr "Exibição"
+
+#. slug of the error
+#: word-count-plugin.php:109
+msgid "Display location must be either beginning or end"
+msgstr "A exibição só pode ser feita no início ou no final."
+
+#: word-count-plugin.php:127
+msgid "End of post"
+msgstr "Final do post"
+
+#: word-count-plugin.php:88
+msgid "Headline Text"
+msgstr "Título do contador"
+
+#. Author URI of the plugin
+msgid "https://github.com/cnnsilveira"
+msgstr "https://github.com/cnnsilveira"
+
+#: word-count-plugin.php:65
+msgid "minutes to read"
+msgstr "minutos para ler"
+
+#: word-count-plugin.php:121
+msgid "Name the counter"
+msgstr "Dê um nome a ele"
+
+#: word-count-plugin.php:100
+msgid "Read Time"
+msgstr "Tempo de leitura"
+
+#: word-count-plugin.php:49 word-count-plugin.php:53
+msgid "This post has"
+msgstr "Esse post tem"
+
+#: word-count-plugin.php:65
+msgid "This post will take about"
+msgstr "Esse post vai levar em torno de"
+
+#: word-count-plugin.php:63
+msgid "This post will take about a minute to read"
+msgstr "Esse post vai levar em torno de um minuto para ser lido"
+
+#: word-count-plugin.php:61
+msgid "This post will take less than a minute to read"
+msgstr "Esse post vai levar menos de um minuto para ser lido"
+
+#. tab title
+#: word-count-plugin.php:92 word-count-plugin.php:134
+msgid "Word Count"
+msgstr "Contador de Palavras"
+
+#. Name of the plugin
+msgid "Word Count Plugin"
+msgstr "Contador de Palavras"
+
+#: word-count-plugin.php:133 word-count-plugin.php:143
+msgid "Word Count Settings"
+msgstr "Configurações do Contador de Palavras"
+
+#: word-count-plugin.php:49
+msgid "words"
+msgstr "palavras"

@@ -1,0 +1,105 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Count Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-11 17:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wcpdomain"
+
+#. Description of the plugin
+msgid ""
+"All I do is count the words and show the results to the reader. Includes the "
+"word count itself, the character count and the read time."
+msgstr ""
+
+#: word-count-plugin.php:126
+msgid "Beginning of post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Caio Nunes"
+msgstr ""
+
+#: word-count-plugin.php:96
+msgid "Character Count"
+msgstr ""
+
+#: word-count-plugin.php:53
+msgid "characters"
+msgstr ""
+
+#: word-count-plugin.php:84
+msgid "Display Location"
+msgstr ""
+
+#. slug of the error
+#: word-count-plugin.php:109
+msgid "Display location must be either beginning or end"
+msgstr ""
+
+#: word-count-plugin.php:127
+msgid "End of post"
+msgstr ""
+
+#: word-count-plugin.php:88
+msgid "Headline Text"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/cnnsilveira"
+msgstr ""
+
+#: word-count-plugin.php:65
+msgid "minutes to read"
+msgstr ""
+
+#: word-count-plugin.php:121
+msgid "Name the counter"
+msgstr ""
+
+#: word-count-plugin.php:100
+msgid "Read Time"
+msgstr ""
+
+#: word-count-plugin.php:49 word-count-plugin.php:53
+msgid "This post has"
+msgstr ""
+
+#: word-count-plugin.php:65
+msgid "This post will take about"
+msgstr ""
+
+#: word-count-plugin.php:63
+msgid "This post will take about a minute to read"
+msgstr ""
+
+#: word-count-plugin.php:61
+msgid "This post will take less than a minute to read"
+msgstr ""
+
+#. tab title
+#: word-count-plugin.php:92 word-count-plugin.php:134
+msgid "Word Count"
+msgstr ""
+
+#. Name of the plugin
+msgid "Word Count Plugin"
+msgstr ""
+
+#: word-count-plugin.php:133 word-count-plugin.php:143
+msgid "Word Count Settings"
+msgstr ""
+
+#: word-count-plugin.php:49
+msgid "words"
+msgstr ""
