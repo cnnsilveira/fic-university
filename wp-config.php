@@ -31,11 +31,11 @@ if (strstr($_SERVER['SERVER_NAME'], 'localhost')) {
 
 } else {
 	
-	define( 'DB_NAME', 'u990498381_fic_university' );
+	define( 'DB_NAME', 'u990498381_university' );
 
-	define( 'DB_USER', 'u990498381_caio' );
+	define( 'DB_USER', 'u990498381_university' );
 
-	define( 'DB_PASSWORD', 'f9]Lw55+IXmd' );
+	define( 'DB_PASSWORD', '0C:ydBIn>' );
 
 	define( 'DB_HOST', 'localhost' );
 }
